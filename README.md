@@ -1,2 +1,2 @@
 # to-do-list
-created a to do list using jQuery
+created a simple to do list using jQuery
